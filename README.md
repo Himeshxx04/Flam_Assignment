@@ -25,3 +25,8 @@ X               : 54.995622
 ```
 (t*cos(0.523537) - exp(0.030012*abs(t))*sin(0.3*t)*sin(0.523537) + 54.995622, 42 + t*sin(0.523537) + exp(0.030012*abs(t))*sin(0.3*t)*cos(0.523537))
 ```
+
+Desmos link
+```
+https://www.desmos.com/calculator/b81saq0vux
+```
