@@ -16,10 +16,12 @@ given sample points \((x_i,y_i)\) for \(6<t<60\).
 
 ## Submission
 === Estimated Parameters ===
+
 theta (degrees): 29.996445
+
 M               : 0.030012
+
 X               : 54.995622
-Example (format only):
 ```
 (t*cos(0.523537) - exp(0.030012*abs(t))*sin(0.3*t)*sin(0.523537) + 54.995622, 42 + t*sin(0.523537) + exp(0.030012*abs(t))*sin(0.3*t)*cos(0.523537))
 ```
