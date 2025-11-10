@@ -27,6 +27,6 @@ X               : 54.995622
 ```
 
 Desmos link
-```
+
 https://www.desmos.com/calculator/b81saq0vux
-```
+
